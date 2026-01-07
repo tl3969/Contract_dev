@@ -7,8 +7,8 @@
     foundryup
 
     # 2. 创建项目
-    forge init meme-token
-    cd meme-token
+    forge init Contract_dev
+    cd Contract_dev
 
     # 3. 安装依赖
     forge install OpenZeppelin/openzeppelin-contracts --no-commit
